@@ -1,0 +1,3 @@
+- "!include newschema_masakiTable.yaml"
+- "!include newschema_table.yaml"
+- "!include schenmaname_profile.yaml"
